@@ -48,6 +48,12 @@ Finance and tax professional with 13+ years across accounting, audit, tax compli
 
 [🔗 View Project on GitHub](https://github.com/thousifva/Project_Monitoring_Dashboard)
 
+### SQL Data Warehouse Project
+
+🗄️ A SQL Server data warehouse built on the medallion architecture (Bronze/Silver/Gold) with ETL stored procedures, a star schema and data-quality checks.
+
+[🔗 View Project on GitHub](https://github.com/thousifva/SQL_Data_Warehouse_Project)
+
 ---
 
 ## 🧠 Tools & Skills
