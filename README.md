@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thouseef
 
-**Financial Clarity Partner | Finance, Law, Data & Tech**
+**Financial Clarity Partner · Finance · Law · Data · Tech**
 
 ## 🌟 About Me
 
@@ -12,7 +12,7 @@ Finance and tax professional with 13+ years across accounting, audit, tax compli
 
 - 🔹 **Freelance Financial Consultant** - Proacte Consulting and Advisory (2023 - present): accounting, tax compliance and financial reporting for SME clients.
 - 🔹 **Volunteer Finance Advisor and Internal Auditor** - Ignite Foundation (2024 - present): bookkeeping, grant tracking and compliance support.
-- 🔹 **Earlier roles:** Finance Advisor at Agua India | Associated Partner & Senior Consultant at Ravel Business Solutions | Finance & Tax Consultant at TAXR | Senior Accountant at Ideamine & Empressem Technologies | Articled Assistant at Paulson & Co.
+- 🔹 **Earlier roles:** Finance Advisor at Agua India · Associated Partner & Senior Consultant at Ravel Business Solutions · Finance & Tax Consultant at TAXR · Senior Accountant at Ideamine & Empressem Technologies · Articled Assistant at Paulson & Co.
 
 ---
 
@@ -52,7 +52,7 @@ Power BI, DAX, Excel, Power Query, SQL Server, Python, pandas, Tableau and Jupyt
 
 ## 🎯 Interests
 
-💰 Finance | ⚖️ Law | 📊 Data | 🤖 AI & Technology
+💰 Finance · ⚖️ Law · 📊 Data · 🤖 AI & Technology
 
 ---
 
