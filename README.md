@@ -30,29 +30,29 @@ Finance and tax professional with 13+ years across accounting, audit, tax compli
 
 ### Premier League Standings ETL
 
-⚽ A training project using API-Football, Python and SQL Server, with staging tables, upsert procedures and data-quality checks, followed by a Power BI dashboard.
+⚽ A training project using API-Football, Python and SQL Server, with staging tables, upsert procedures and data-quality checks, followed by a Power BI dashboard. Includes a step-by-step walkthrough with annotated code, reasoning and pipeline diagrams.
 
 [![Premier League 2024 - Season Overview](PremierLeague.png)](https://github.com/thousifva/EPL_Standings_ETL)
 
-[🔗 View Project on GitHub](https://github.com/thousifva/EPL_Standings_ETL)
+[🔗 View Project on GitHub](https://github.com/thousifva/EPL_Standings_ETL) · [📖 Walkthrough](https://github.com/thousifva/EPL_Standings_ETL/blob/main/docs/walkthrough.md)
 
 ### Kerala Gym Listings ETL
 
-🏋️ A Python pipeline that collects gym listings across 8 Kerala cities via SerpAPI, with deduplication, website email extraction and Excel export.
+🏋️ A Python pipeline that collects gym listings across 8 Kerala cities via SerpAPI, with deduplication, website email extraction and Excel export. Includes a step-by-step walkthrough with annotated code, reasoning and workflow diagrams.
 
-[🔗 View Project on GitHub](https://github.com/thousifva/Kerala_Gym_Listings_ETL)
+[🔗 View Project on GitHub](https://github.com/thousifva/Kerala_Gym_Listings_ETL) · [📖 Walkthrough](https://github.com/thousifva/Kerala_Gym_Listings_ETL/blob/main/docs/walkthrough.md)
 
 ### Project Monitoring Dashboard
 
-📈 A Power BI capstone dashboard monitoring infrastructure projects through their approval pipeline, spend, billing and risk - with DAX extracts and documentation.
+📈 A Power BI capstone dashboard monitoring infrastructure projects through their approval pipeline, spend, billing and risk - with DAX extracts and documentation. Includes a step-by-step walkthrough with annotated DAX, reasoning and model diagrams.
 
-[🔗 View Project on GitHub](https://github.com/thousifva/Project_Monitoring_Dashboard)
+[🔗 View Project on GitHub](https://github.com/thousifva/Project_Monitoring_Dashboard) · [📖 Walkthrough](https://github.com/thousifva/Project_Monitoring_Dashboard/blob/main/docs/walkthrough.md)
 
 ### SQL Data Warehouse Project
 
-🗄️ A SQL Server data warehouse built on the medallion architecture (Bronze/Silver/Gold) with ETL stored procedures, a star schema and data-quality checks.
+🗄️ A SQL Server data warehouse built on the medallion architecture (Bronze/Silver/Gold) with ETL stored procedures, a star schema and data-quality checks. Includes a step-by-step walkthrough with annotated code, reasoning and a run-order workflow diagram.
 
-[🔗 View Project on GitHub](https://github.com/thousifva/SQL_Data_Warehouse_Project)
+[🔗 View Project on GitHub](https://github.com/thousifva/SQL_Data_Warehouse_Project) · [📖 Walkthrough](https://github.com/thousifva/SQL_Data_Warehouse_Project/blob/main/docs/walkthrough.md)
 
 ---
 
