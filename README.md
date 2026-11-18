@@ -36,6 +36,18 @@ Finance and tax professional with 13+ years across accounting, audit, tax compli
 
 [🔗 View Project on GitHub](https://github.com/thousifva/EPL_Standings_ETL)
 
+### Kerala Gym Listings ETL
+
+🏋️ A Python pipeline that collects gym listings across 8 Kerala cities via SerpAPI, with deduplication, website email extraction and Excel export.
+
+[🔗 View Project on GitHub](https://github.com/thousifva/Kerala_Gym_Listings_ETL)
+
+### Project Monitoring Dashboard
+
+📈 A Power BI capstone dashboard monitoring infrastructure projects through their approval pipeline, spend, billing and risk - with DAX extracts and documentation.
+
+[🔗 View Project on GitHub](https://github.com/thousifva/Project_Monitoring_Dashboard)
+
 ---
 
 ## 🧠 Tools & Skills
