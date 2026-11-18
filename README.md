@@ -32,7 +32,6 @@ Finance and tax professional with 13+ years across accounting, audit, tax compli
 
 ⚽ A training project using API-Football, Python and SQL Server, with staging tables, upsert procedures and data-quality checks, followed by a Power BI dashboard. Includes a step-by-step walkthrough with annotated code, reasoning and pipeline diagrams.
 
-[![Premier League 2024 - Season Overview](PremierLeague.png)](https://github.com/thousifva/EPL_Standings_ETL)
 
 [🔗 View Project on GitHub](https://github.com/thousifva/EPL_Standings_ETL) · [📖 Walkthrough](https://github.com/thousifva/EPL_Standings_ETL/blob/main/docs/walkthrough.md)
 
