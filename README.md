@@ -75,5 +75,4 @@ Power BI, DAX, Excel, Power Query, SQL Server, Python, pandas, Tableau and Jupyt
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thousifva/)
-- 🌐 [thouseef.com](https://thouseef.com)
 - 📍 Kochi, Kerala
