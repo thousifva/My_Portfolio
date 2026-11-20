@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thouseef
 
-**Financial Clarity Partner · Finance · Law · Data · Tech**
+**Financial Clarity Partner · Finance · Data · Tech**
 
 ## 🌟 About Me
 
@@ -18,7 +18,6 @@ Finance and tax professional with 13+ years across accounting, audit, tax compli
 
 ## 🎓 Education & Learning
 
-- **LLB (in progress)** - CUSAT School of Legal Studies
 - **BCom** - St. Paul's College, Kalamassery
 - **CA Intermediate coursework** - ICAI
 - **McKinsey.org Forward Program**
@@ -69,7 +68,7 @@ Power BI, DAX, Excel, Power Query, SQL Server, Python, pandas, Tableau and Jupyt
 
 ## 🎯 Interests
 
-💰 Finance · ⚖️ Law · 📊 Data · 🤖 AI & Technology
+💰 Finance · 📊 Data · 🤖 AI & Technology
 
 ---
 
